@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there, Welcome 👋
 
-<!--
-**luanbalbino/luanbalbino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Electrical Engineer with a Master’s degree in Electrical Engineering from UFCG, experienced in functional verification of digital integrated circuits using UVM.
+- Occasionally use this space for projects I develop or topics I’m currently studying.
 
-Here are some ideas to get you started:
+# Contact
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-balbino/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanbalbino&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=luanbalbino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
