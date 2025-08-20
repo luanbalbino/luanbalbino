@@ -1,7 +1,7 @@
 ## Hi there, Welcome 👋
 
 - Electrical Engineer with a Master’s degree in Electrical Engineering from UFCG, experienced in functional verification of digital integrated circuits using UVM.
-- Occasionally use this space for projects I develop or topics I’m currently studying.
+- Occasionally I use this space for projects I’m developing or topics I’m currently studying.
 
 # Contact
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-balbino/)
